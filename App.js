@@ -11,7 +11,7 @@ import Temperatura from './src/components/Temperatura';
 export default function App() {
   return (
     <>
-      <Header />
+      <Header /> 
 
       <View style={styles.container}>
         <LedVermelho />
